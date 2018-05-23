@@ -1,0 +1,43 @@
+body{
+/*    background-color: antiquewhite;*/
+}
+.navbar{
+    font-family: 'Oswald', sans-serif;
+}
+.lists a{
+  margin: 0.8em 0;
+    list-style: none;
+    border-radius: 0.5em;
+}
+.lists a:hover{
+    background-color: #f4f4f4;
+}
+.lists > .list2{
+    margin-top: 5em
+}
+.lists{
+    float: left;
+    margin-top: -0.8em;
+    margin-left: 1em;
+    width: 200px;
+}
+.content > .headder{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    margin-top: 1em;
+}
+.items > .col-sm > img{
+    width: 15em;
+}
+.items > .col-sm{
+    text-align: center;
+    
+}
+.table{
+    width: 80%;
+}
+.mytable{
+    margin: 2em 0;
+    font-family: 'Merriweather', serif;
+}
+
